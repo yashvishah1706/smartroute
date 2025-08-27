@@ -35,8 +35,6 @@ Algorithms: NetworkX (Dijkstra, A*)
 
 Mapping: OSMnx + OpenStreetMap data
 
-Database (Phase 1): PostgreSQL
-
 🖥️ Setup & Installation
 1. Clone the Repository
 git clone https://github.com/yashvishah1706/smartroute.git
