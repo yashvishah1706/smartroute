@@ -1,0 +1,14 @@
+Flask==3.0.3
+Flask-Cors==4.0.1
+python-dotenv==1.0.1
+
+networkx==3.3
+osmnx==2.0.0
+shapely>=2.0.1
+
+SQLAlchemy==2.0.32
+psycopg2-binary==2.9.9
+
+numpy>=1.26
+pandas>=2.2
+requests>=2.32
